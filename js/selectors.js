@@ -14,4 +14,8 @@ $(document).ready(() => {
   function divSelector() {
     return $('.pics')
   }
+
+  function firstListItem() {
+
+  }
 })
