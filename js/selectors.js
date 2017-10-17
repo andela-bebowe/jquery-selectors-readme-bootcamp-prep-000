@@ -16,6 +16,6 @@ $(document).ready(() => {
   }
 
   function firstListItem() {
-
+    return $('ul li:first-child #')
   }
 })
